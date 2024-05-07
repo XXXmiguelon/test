@@ -1,3 +1,5 @@
+~ $ cd username.github.io
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
